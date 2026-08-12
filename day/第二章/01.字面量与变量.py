@@ -46,16 +46,5 @@ b=temp
 print("a:",a)
 print("b:",b)
 
-# type()函数判断数据类型
-print(type("学Python后悔三年,不学后悔一辈子"))
-print(type(100 ))
-print(type(3.14))
-print(type(False))
-print(type(None))
 
 
-# isinstance()函数判断数据类型
-x=100
-print("x:",x)
-print(isinstance(x,float))
-print(isinstance(x,int))
